@@ -1,0 +1,50 @@
+body { 
+  background: url(https://resizing.flixster.com/7gq9qgfnxrLRFy0cdxH_YhS5MSg=/fit-in/1152x864/v1.aDszNDk3MjtqOzE4NTg1OzEyMDA7NzAwOzQ2Nw) 100% 100%;
+  text-align: center;
+  font-size: 20px;
+  color: white;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ .container {box-sizing: border-box;
+}
+
+.form-control {
+  padding: 20px;
+  display: block;
+  width: 80%;
+  height: 10px;
+    background-clip: padding-box;
+  border-radius: 0.25rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+.submit-button {
+  margin-left: auto;
+    margin-right: auto;
+  background-clip: padding-box;
+  display: block;
+  border-radius: 0.25rem;
+}
+.input-textarea {
+  border-radius: 0.25rem;
+  width: 50%;
+  height: 100px;
+}
+#survey-form {
+  opacity: 0.9;
+  padding: 20px;
+width: 70%;
+  background-color: hsl(38, 77%, 51%);
+margin-left: auto;
+margin-right: auto;
+border-radius: 0.55rem;
+margin-bottom: 40px;}
+
+.checks {
+  display: block;
+  margin-left: 250px;
+text-align: justify;
+}
